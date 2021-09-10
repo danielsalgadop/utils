@@ -1,0 +1,16 @@
+{
+    "name": "dsalgadop/utils",
+    "description": "code I keep writing again and again",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "daniel salgado",
+            "email": "daniel.salgado.p@gmail.com"
+        }
+    ],
+    "require": {}
+}
